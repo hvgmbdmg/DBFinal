@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ccff4d45346d8a34aa5abae853d8a359
+timeCreated: 1497497098
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rabbitSet1: {fileID: 21300000, guid: d71204ef1df9d3b49869fbf043c9002b, type: 3}
+  - rabbitSet2: {instanceID: 0}
+  - rabbitRun1: {instanceID: 0}
+  - rabbitRun2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
